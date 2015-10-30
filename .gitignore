@@ -1,0 +1,5 @@
+**/Debug/
+*.exe
+*.obj
+*.pdf
+*.zip
